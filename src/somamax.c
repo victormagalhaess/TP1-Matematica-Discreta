@@ -1,4 +1,5 @@
 //Autor: Victor Hugo Faria Dias Magalhães 2019055010
+//Complexidade linear, O(n)
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -38,7 +39,7 @@ void processaVetor(int *vetor, int tamanhoVetor){
 
         if (somaAux>valorMax){
             valorMax = somaAux;
-            limiteInf = indiceTeste;      //+1 devido aos vetores do exemplo do TP começarem na casa 1
+            limiteInf = indiceTeste;  //+1 devido aos vetores do exemplo do TP começarem na casa 1
             limiteSup = i+1;                
         }
 
