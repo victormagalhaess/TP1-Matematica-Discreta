@@ -38,6 +38,8 @@ O algoritmo também utiliza memória proporcional ao tamanho do vetor de entrada
 
 ## Algoritmo Quadrado Mágico:
 **Entrada**: O algoritmo não recebe nenhum parâmetro.
+
+
 **Saída**: O algoritmo escreve na tela os quadrados mágicos para os números de 3 a 6.
 ```C
 n=3, Soma=15 
