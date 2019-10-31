@@ -80,7 +80,7 @@ mesmo que qualquer parte do algoritmo (ímpar, 4n ou 4n+2) fosse implementado co
 foi baseada em dois loops aninhados, garantindo a complexidade O(n²)). O algoritmo também utiliza memória baseada numa matriz quadrada de n
 lados, possuindo assim complexidade de memória de O(n²).
 
-##Execução
+## Execução
 * Ambos os algoritmos foram desenvolvidos e testados utiliando Ubuntu. 
 * A versão mínima para execução dos algoritmos da linguagem C é a c99.
 * O compilador utilizado para os testes foi o gcc.
