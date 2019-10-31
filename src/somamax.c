@@ -56,5 +56,6 @@ int main(void){
         scanf("%d", &(vetor[i]));
     }
     processaVetor(vetor, tamanhoVetor);
+    free(vetor);
     return 0;
 }
