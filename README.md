@@ -1,3 +1,4 @@
+
 # TP1 da disciplina de matemática discreta UFMG
 ## Algoritmo Soma Máxima:
   O objetivo desse algoritmo é encontrar o subvetor cuja soma dos elementos seja 
@@ -90,4 +91,3 @@ lados, possuindo assim complexidade de memória de O(n²).
 gcc qmagico.c -o qmagico
 gcc somamax.c -o somamax
 ```
-
