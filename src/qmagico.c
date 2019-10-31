@@ -1,3 +1,5 @@
+//Autor: Victor Hugo Faria Dias Magalhães - 2019055010
+//Complexidade: O(n)
 #include <stdio.h>
 #include <stdlib.h>
   
